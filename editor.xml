@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="android.app.AlertDialog" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseNewLineBeforeLBrace" value="false" />
+    <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
+  </component>
+</application>
